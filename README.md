@@ -1,13 +1,5 @@
-# Brevy landing page
+# Brevy landing page — moved
 
-A starting point for a Brevy landing page, built by describing it to Claude.
+This template has moved into the Brevy Design System catalog, and this repository is archived.
 
-## Before you start
-
-- **Claude Code desktop**, installed and signed in: [claude.ai/download](https://claude.ai/download)
-- **Node.js**, the LTS version: [nodejs.org](https://nodejs.org)
-- **A GitHub account**, to make your own copy of this template: [github.com/signup](https://github.com/signup)
-
-## Making your page
-
-Open this folder in Claude Code. Tell Claude what page you want — who it is for, what it should say, and what the reader should do at the end. Claude builds it out of Brevy's own blocks and shows it to you as it goes; say what to change until it is right.
+Get the starter project from the catalog instead: open [How to use](https://brevy-ds-catalog.vercel.app/getting-started/how-to-use) and press **Download starter project**, or use the same item in the menu beside **Copy entire system**. The catalog builds that download from the current system every time it is published, so it is always up to date; the copy here is not.
